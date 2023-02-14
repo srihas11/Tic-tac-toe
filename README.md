@@ -8,5 +8,5 @@
 
 - [x] If we split the code into multiple files, there would be no problem with the html file, we would just do script src ="script-1.js" once and if you have 2 or more you just have to do script src ="script-2 or 3." and </script> at the end.
 
- - [x]To create some logic certain functions to create logic. 
- 1. Handle 
+ - [x] To create some logic certain functions to create logic. 
+ - Handle 
