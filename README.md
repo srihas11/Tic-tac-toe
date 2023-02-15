@@ -8,5 +8,10 @@
 
 - [x] If we split the code into multiple files, there would be no problem with the html file, we would just do script src ="script-1.js" once and if you have 2 or more you just have to do script src ="script-2 or 3." and </script> at the end.
 
- - [x] To create some logic certain functions to create logic. 
- - Handle 
+ - [x] Certain were used functions to create logic. 
+
+ * handleCellClick - In this tic-tac-toe code, to see if the cell was already clicked and played and if not, to continue the game. To handle both of them they used this funtion.
+
+ * handleCellPlayed -  When we play tic-tac-toe online, when ever you clicked in the boxes you used to get an "O" or a "X".   For that, handleCellPlayed is used to the same, Update the game when clicked and update & show it on user's interface.
+
+ * handleResult Validation - 
